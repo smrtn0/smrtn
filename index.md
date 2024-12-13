@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: smrtn
 ---
-<h1>Test</h1>
